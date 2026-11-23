@@ -1,0 +1,7 @@
+kit/
+kit.zip
+output/
+*.png
+!meme-preview.png
+SUBMIT-READY.md
+__pycache__/
